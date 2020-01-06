@@ -1,5 +1,11 @@
 # OOP-Project-CUFE2022
 ---
+---------------
+[![GitHub issues](https://img.shields.io/github/issues/AdelRizq/Paint_for_Kids)](https://github.com/AdelRizq/Paint_for_Kids/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AdelRizq/Paint_for_Kids)](https://github.com/AdelRizq/Paint_for_Kids/network)
+[![GitHub stars](https://img.shields.io/github/stars/AdelRizq/Paint_for_Kids)](https://github.com/AdelRizq/Paint_for_Kids/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AdelRizq/Paint_for_Kids)](https://github.com/AdelRizq/Paint_for_Kids/blob/master/LICENSE)
+
  Paint-For-Kids Project :heart::fire: fully coded using C++,C as a Project for Object Oriented Course.. 
 ---
 # 🚀 Introduction : 
